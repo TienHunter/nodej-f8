@@ -1,0 +1,15 @@
+static file && scss
+
+app.use(express.static(path.join(_dirname,'public')))
+
+
+mô hình mvc
+
+D:\NodejsF8\src\app\controller
+-NewController.js
+-SiteController.js
+
+D:\NodejsF8\src\routes
+index.js
+news.js
+site.js
